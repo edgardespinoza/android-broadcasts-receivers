@@ -1,0 +1,6 @@
+[submodule "SendBroadcast"]
+	path = SendBroadcast
+	url = git@github.com:edgardespinoza/send-broadcast.git
+[submodule "broadcast"]
+	path = broadcast
+	url = git@github.com:edgardespinoza/broadcast-receiver.git
